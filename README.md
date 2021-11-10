@@ -39,6 +39,7 @@ This application is licensed under MIT
 
 ## Questions
 If you have any questions or suggestions on improvements please email me:    
-- [Email](mailto:camhcodes11@gmail.com)    
+- [Email](mailto:camhcodes11@gmail.com)  
+    
 Checkout my other projects:      
 - [GitHub](https://github.com/CameronHeadlee?tab=repositories)
