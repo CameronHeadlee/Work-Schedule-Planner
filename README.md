@@ -38,7 +38,7 @@ This application is licensed under MIT
 ![GitHub](https://img.shields.io/github/license/CameronHeadlee/Work-Schedule-Planner)
 
 ## Questions
-If you have any questions or suggestions on improvements please email me:
+If you have any questions or suggestions on improvements please email me:  
 - [Email](mailto:camhcodes11@gmail.com)
 Checkout my other projects:  
 -[GitHub](https://github.com/CameronHeadlee?tab=repositories)
