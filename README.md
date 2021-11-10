@@ -21,14 +21,16 @@ After you have cloned the repository and downloaded an extension you will be abl
 - [GitHub Repository](https://github.com/CameronHeadlee/Work-Schedule-Planner)
 
 ##### Screenshots of application:
-- [Image of application on open](img/workschedule_1.png)  
-- [Image of saved events](img/workschedule_2.png)
+- Image of application on open. 
+![Image of application on open](img/workschedule_1.png)   
+- Image of saved events. 
+![Image of saved events](img/workschedule_2.png)
 
 ## Credits
 This application was built using:
-- [HTML5]  
-- [JavaScript]  
-- [CSS3]  
+- HTML5  
+- JavaScript  
+- CSS3  
 - [moment.js](https://momentjs.com/)
 
 ## License
